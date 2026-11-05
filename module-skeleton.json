@@ -1,0 +1,25 @@
+{
+  "repository": "module-integrations-dart-mobile",
+  "capabilityKey": "liberusoftware/integrations",
+  "presentation": "dart-mobile",
+  "package": "module_integrations_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/boilerplate/nextjs/integrations.md",
+  "presentationPlan": "projects/boilerplate/features/integrations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
